@@ -66,7 +66,5 @@ The Sokoban solver combines **A\* search**, **BFS**, and the **Hungarian heurist
 
 ---
 
-## How to Run
-1. Clone the repository:  
-   ```bash
+
    git clone <repository_url>
